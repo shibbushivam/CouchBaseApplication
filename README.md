@@ -1,1 +1,1 @@
-# CouchBaseApplication
+app
